@@ -5,3 +5,18 @@
 .nt_container img{
     width: 80px;
 }
+
+#id_jumbotron{
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+}
+.jb_container{
+    height:700px
+}
+.jb_container img{
+    width: 300px;
+}
+.butt_jb{
+    background-color: rgba(250, 96, 0, 0.955) ;
+}
