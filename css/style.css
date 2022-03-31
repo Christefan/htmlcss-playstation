@@ -1,3 +1,6 @@
+img{
+    width: 100%;
+}
 .nt_container{
     height: 35px;
     background-color: black;
@@ -7,11 +10,12 @@
 }
 
 #id_jumbotron{
+
+}
+.jb_container{
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
-}
-.jb_container{
     height:700px
 }
 .jb_container img{
@@ -19,4 +23,9 @@
 }
 .butt_jb{
     background-color: rgba(250, 96, 0, 0.955) ;
+}
+.jb_img_container{
+    margin-top: 20px;
+    height: 230px;
+    /* background-color: aqua; */
 }
