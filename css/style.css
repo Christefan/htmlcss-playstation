@@ -1,3 +1,6 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
 img{
     width: 100%;
 }
@@ -32,7 +35,16 @@ header{
 }
 .jb_img_container{
     margin-top: 20px;
-    height: 230px;
+    height: 530px;
     /* background-color: aqua; */
 }
 .jb_img-items{}
+
+.it_take-container{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.nu_container{
+    background-color: black;
+}
