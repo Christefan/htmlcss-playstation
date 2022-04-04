@@ -4,9 +4,6 @@ body {
 img{
     width: 100%;
 }
-header{
-    height: 100px;
-}
 .nt_container{
     height: 35px;
     background-color: black;
@@ -14,18 +11,13 @@ header{
 .nt_container img{
     width: 80px;
 }
-
-#id_jumbotron{
-
-}
-.bottom{
-    margin-bottom:px;
-}
 .jb_container{
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
-    height:700px
+    background-position: top;
+    margin-top: 110px;
+    padding-top: 20rem;
 }
 .jb_container img{
     width: 300px;
@@ -33,13 +25,6 @@ header{
 .butt_jb{
     background-color: rgba(250, 96, 0, 0.955) ;
 }
-.jb_img_container{
-    margin-top: 20px;
-    height: 530px;
-    /* background-color: aqua; */
-}
-.jb_img-items{}
-
 .it_take-container{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
@@ -53,4 +38,7 @@ header{
 }
 #id_psnow{
     background-color: rgb(35, 35, 144);
+}
+footer{
+    background-color: rgb(69, 66, 245);
 }
