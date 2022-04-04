@@ -48,3 +48,9 @@ header{
 .nu_container{
     background-color: black;
 }
+#id_playstation-plus{
+    background-color: rgba(96, 96, 96, 0.085);
+}
+#id_psnow{
+    background-color: rgb(35, 35, 144);
+}
